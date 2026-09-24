@@ -1,3 +1,5 @@
+package juegos;
+
 import java.util.Random;
 
 

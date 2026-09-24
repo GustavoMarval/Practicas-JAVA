@@ -1,3 +1,5 @@
+package banco;
+
 public class ReservaDeHotel {
     public static void main(String[] args) {
         System.out.println("*** Sistema de Reserva de Hoteles ***");

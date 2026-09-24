@@ -1,3 +1,5 @@
+package cadenas;
+
 public class FormateoDeCadenas {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package cadenas;
+
 public class SubCadena {
     public static void main(String[] args) {
         // Tema de Subcadena
