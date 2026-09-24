@@ -1,3 +1,5 @@
+package utilidades;
+
 public class AcumuladorSuma {
     public static void main(String[] args) {
         System.out.println("Suma Acumulativa");

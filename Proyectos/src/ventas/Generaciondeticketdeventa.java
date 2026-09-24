@@ -1,3 +1,5 @@
+package ventas;
+
 import java.util.Scanner;
 
 public class Generaciondeticketdeventa {

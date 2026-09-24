@@ -1,3 +1,5 @@
+package utilidades;
+
 public class CicloFor {
     public static void main(String[] args) {
         var numero = 1;

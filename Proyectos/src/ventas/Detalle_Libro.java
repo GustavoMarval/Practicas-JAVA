@@ -1,3 +1,5 @@
+package ventas;
+
 public class Detalle_Libro {
     public static void main(String[] args) {
         String titulo = "El señor de los anillos" ;
