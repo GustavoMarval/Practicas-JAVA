@@ -1,3 +1,5 @@
+package utilidades;
+
 public class NumerosDesendentes {
     public static void main(String[] args) {
         System.out.println("Numeros Inversos");

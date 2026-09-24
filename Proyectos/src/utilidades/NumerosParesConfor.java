@@ -1,3 +1,5 @@
+package utilidades;
+
 public class NumerosParesConfor {
     public static void main(String[] args) {
         System.out.println("*** Numeros Pares for ***");

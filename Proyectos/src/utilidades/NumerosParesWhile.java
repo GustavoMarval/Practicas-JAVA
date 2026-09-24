@@ -1,3 +1,5 @@
+package utilidades;
+
 public class NumerosParesWhile {
     public static void main(String[] args) {
         System.out.println("Numeros Pares");
