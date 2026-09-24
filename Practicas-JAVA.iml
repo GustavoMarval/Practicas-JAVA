@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Clases/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Funciones/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proyectos/Manejo Consola/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Proyectos/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
