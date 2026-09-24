@@ -1,4 +1,4 @@
-<h1 align="center">☕ Portafolio de Prácticas y Proyectos en Java</h1>
+<h1 align="center">☕ Prácticas de Java</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -6,40 +6,45 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📌 Sobre el Repositorio
+## 📌 Sobre este repositorio
 
-Este repositorio es una colección estructurada de aplicaciones y algoritmos desarrollados en Java. Su propósito principal es demostrar la aplicación práctica de conceptos de ingeniería de software, desde la lógica fundamental hasta la programación orientada a objetos (POO) y la arquitectura modular. 
+Este es mi repositorio de práctica mientras curso **Universidad Java — Cero a Experto**,
+avanzando desde los fundamentos del lenguaje hacia Spring Boot, Hibernate, MySQL y
+React. Aquí subo los ejercicios y proyectos pequeños que voy resolviendo módulo a
+módulo.
 
-El código ha sido refactorizado y organizado siguiendo buenas prácticas de desarrollo, asegurando escalabilidad, limpieza y un estricto control de versiones.
+No es un proyecto de producción — es exactamente lo que dice el nombre: prácticas.
 
-## 🏗️ Arquitectura y Modularización
+## 📁 Qué hay en cada carpeta
 
-El proyecto está diseñado bajo una **arquitectura multi-módulo**, separando las responsabilidades y categorizando el código mediante paquetes temáticos para facilitar su lectura y mantenimiento:
+* **`Arreglos/`** — Ejercicios de arreglos y matrices.
+* **`Funciones/`** — Funciones, recursividad.
+* **`Clases/`** — Primeros ejercicios de POO (abstracción, encapsulamiento).
+* **`Proyectos/`** — Programas más completos, organizados por tema:
+  * `banco` — simuladores tipo cajero automático y sistema bancario.
+  * `ventas` — sistemas de facturación y descuentos.
+  * `cadenas` — manipulación de Strings.
+  * `juegos` — pequeñas simulaciones lógicas.
+  * `utilidades` — ejercicios sueltos de lógica y control de flujo.
 
-* **📁 Proyectos:** Aplicaciones integradas que unen múltiples conceptos de lógica y POO. Organizados en paquetes (Packages) según su dominio de negocio:
-  * `banco`: Simuladores financieros (Cajero Automático, Sistema de Banco).
-  * `ventas`: Sistemas de facturación y descuentos (Generación de Tickets, Descuentos VIP).
-  * `utilidades`: Herramientas de propósito general e identificadores.
-  * `cadenas`: Manipulación avanzada de Strings y formateo de datos.
-  * `juegos`: Simulaciones lógicas (Casa de los Espejos, Números Aleatorios).
-* **📁 Clases:** Ejercicios puramente enfocados en el diseño de Programación Orientada a Objetos (abstracción, encapsulamiento, instanciación).
-* **📁 Estructuras de Control (`Arreglos`, `Ciclos`, `Funciones`):** Módulos dedicados a la lógica algorítmica profunda, recursividad y manipulación de matrices.
+## 🚀 Proyecto integrador
 
-## ⚙️ Tecnologías y Competencias Técnicas Demostradas
+A medida que avanzo en el curso, estoy construyendo un proyecto más grande y completo
+en un repositorio aparte: **[biblioteca-fullstack](#)** — un sistema de préstamo de
+libros con backend en Spring Boot + Hibernate + MySQL y frontend en React. Ese es el
+proyecto que mejor representa dónde estoy hoy con Java aplicado a un contexto real.
 
-* **Lenguaje Core:** Java (Tipado estricto, POO, Estructuras de Datos).
-* **Control de Versiones:** Git & GitHub (Manejo de repositorios remotos, resolución de conflictos, commits semánticos).
-* **Entorno de Desarrollo:** IntelliJ IDEA (Refactorización avanzada, manejo de configuraciones Run/Debug, empaquetado).
-* **Buenas Prácticas:** Clean Code, nombrado significativo de variables (CamelCase), eliminación de redundancias y arquitectura escalable.
+## 🛠️ Herramientas
 
-## 👨‍💻 Sobre Mí
+* **Lenguaje:** Java
+* **IDE:** IntelliJ IDEA
+* **Control de versiones:** Git & GitHub
 
-Soy **Gustavo Adolfo Marval Andarcia**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la calidad del código. Busco constantemente resolver problemas lógicos mediante arquitecturas eficientes. 
+## 👨‍💻 Sobre mí
 
-Además de mi enfoque principal en **Java**, poseo competencias técnicas integrales en:
-* **Python** (Scripts y lógica de programación).
-* **Base de Datos:** SQL.
-* **Calidad de Software:** Fundamentos de QA Testing.
-* **Metodologías Ágiles:** Formación continua en marcos de trabajo Scrum.
+Soy **Gustavo Adolfo Marval Andarcia**, estudiante de Ingeniería en Sistemas. Estoy
+enfocado en Java y construyendo mi camino hacia desarrollo full stack (Spring, MySQL,
+React). También tengo bases en Python y SQL, y estoy aprendiendo QA testing y
+metodologías ágiles.
 
-📫 **Contacto:** Si buscas un perfil junior/trainee comprometido con el aprendizaje continuo y las buenas prácticas desde el primer día, puedes contactarme a través de mi perfil de GitHub o buscar mi CV en plataformas de talento.
+📫 **Contacto:** si buscas un perfil junior/trainee, puedes escribirme por GitHub.
